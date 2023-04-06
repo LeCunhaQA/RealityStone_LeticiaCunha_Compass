@@ -6,5 +6,5 @@ Estes projeto tem como objetivo aplicar os conhecimentos adquiridos na trilha de
 
 ## Autora
 Letícia Cunha
-https://www.linkedin.com/in/let%C3%ADcia-guimar%C3%A3es-da-cunha-b0b05724b/
+![LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-guimar%C3%A3es-da-cunha-b0b05724b/)
 
