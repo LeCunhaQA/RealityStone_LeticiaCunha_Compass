@@ -1,5 +1,5 @@
 # Testes automatizados para site de compras da Amazon
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeCunhaQA/RealityStone_LeticiaCunha_Compass/blob/master/licence)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeCunhaQA/RealityStone_LeticiaCunha_Compass/blob/master/license)
 
 # Sobre o Projeto
 Estes projeto tem como objetivo aplicar os conhecimentos adquiridos na trilha de QA ruby.
